@@ -1,1 +1,1 @@
-web: yarn test-deploy
+web: yarn start
