@@ -12,6 +12,6 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "client": "npm start --prefix client",
-    "test-deploy": "concurrently \"npm start\" \"npm run client\""
+    "test-deploy": "concurrently \"npm run client\" \"npm start\""
   }
 }
