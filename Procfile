@@ -1,1 +1,1 @@
-web: npm run test-deploy
+web: yarn test-deploy
